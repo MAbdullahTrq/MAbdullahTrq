@@ -46,7 +46,7 @@
         <td>Blockchain Platforms</td>
         <td>
             <a href=""><img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/solana/solana-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/solana-8544144-7002700.png?f=webp&w=256" width="40" height="40"/></a>
             <a href=""><img src="https://www.vectorlogo.zone/logos/hyperledger/hyperledger-icon.svg" width="40" height="40"/></a>
         </td>
     </tr>
@@ -68,15 +68,3 @@
 
 ---
 
-### GitHub Stats
-
-<table>
-    <tr>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=MAbdullahTrq&count_private=true&show_icons=true&theme=tokyonight"/>
-        </td>
-        <td>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=MAbdullahTrq"/>
-        </td> 
-    </tr>
-</table>
