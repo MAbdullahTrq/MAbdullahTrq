@@ -60,8 +60,8 @@
     <tr>
         <td>Tools & Frameworks</td>
         <td>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/trufflesuite/trufflesuite-icon.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/remix/remix-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://avatars.githubusercontent.com/u/22205159?s=280&v=4" width="40" height="40"/></a>
+            <a href=""><img src="https://repository-images.githubusercontent.com/59065830/b62be480-45d2-11ea-9989-803db0f9c44d" width="40" height="40"/></a>
         </td>
     </tr>
 </table>
