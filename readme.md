@@ -53,7 +53,7 @@
     <tr>
         <td>Smart Contract Development</td>
         <td>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/soliditylang/soliditylang-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://w7.pngwing.com/pngs/895/275/png-transparent-solidity-ethereum-smart-contract-blockchain-cryptocurrency-blockchain-angle-triangle-logo.png" width="40" height="40"/></a>
             <a href=""><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="40" height="40"/></a>
         </td>
     </tr>
